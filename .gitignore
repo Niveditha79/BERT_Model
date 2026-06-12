@@ -1,0 +1,5 @@
+bert_model/
+bert_tokenizer/
+__pycache__/
+.ipynb_checkpoints/
+confusion_matrix.png
